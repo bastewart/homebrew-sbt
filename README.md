@@ -9,7 +9,7 @@ See Homebrew/homebrew-core#76947 for more details.
 Usage:
   
 	$ brew tap bastewart/sbt
-	$ brew install bastewart/sbt
+	$ brew install bastewart/sbt/sbt
 
 [Homebrew]: https://brew.sh/
 [`sbt`]: (https://www.scala-sbt.org/)
