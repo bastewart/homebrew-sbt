@@ -1,5 +1,7 @@
 # homebrew-sbt
 
+**Archived as this is [now fixed upstream](https://github.com/Homebrew/homebrew-core/commit/ead23d60cf3d06cc621e65e19228a12add5d1fd8#diff-fa60f13055f7e52179d5d587a5461c16f88750366ba22a2c46023d8b6599374e).**
+
 Modified [Homebrew] tap for [`sbt`] which installs on M1 (arm64) machines.
 
 At time of writing (2021-10-01) the current `sbt` formula does not install
